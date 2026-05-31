@@ -24,7 +24,7 @@ After creating the HTML structure, CSS was used to improve the appearance of the
 
 *Insert Screenshot of CSS Code Here*
 
-Example:
+Example::
 
 ![CSS Screenshot](screenshots/css-code.png)
 
