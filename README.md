@@ -22,11 +22,8 @@ After creating the HTML structure, CSS was used to improve the appearance of the
 
 ### CSS Source Code
 
-*Insert Screenshot of CSS Code Here*
+![CSS Screenshot](image-2.png)
 
-Example::
-
-![CSS Screenshot](screenshots/css-code.png)
 
 ### Explanation
 
@@ -43,11 +40,8 @@ The Dockerfile was created to containerize the web application and serve it usin
 
 ### Dockerfile
 
-*Insert Screenshot of Dockerfile Here*
+![Dockerfile Screenshot](image-3.png) ![Docker build Screenshot](image-4.png)
 
-Example:
-
-![Dockerfile Screenshot](screenshots/dockerfile.png)
 
 ### Explanation
 
